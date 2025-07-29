@@ -21,7 +21,7 @@
         - `Back Log`: 스프린트에서 미처리된 후 보류 작업
         - `Todo`:금일 진행할 작업
         - `In Progress`: 현재 진행중인 작업
-        - `In Review: PR 요청 후 코드리뷰 대기 상태의 작업
+        - `In Review`: `Pull Requests` 요청 후 코드리뷰 대기 상태의 작업
         - `Done`: 작업이 완료된 작업
 
 <!--
