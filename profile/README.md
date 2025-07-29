@@ -38,4 +38,4 @@
 -->
 
 ### 참고 자료
-- [2025_github_manual](https://docs.google.com/presentation/d/12ocGT_ue8O5GTiGqshKLuH6yaTOry9F4/edit?slide=id.p8#slide=id.p8)
+- [2025_github_manual](https://docs.google.com/presentation/d/12ocGT_ue8O5GTiGqshKLuH6yaTOry9F4/edit?usp=drive_link&ouid=103195415479201446915&rtpof=true&sd=true)
