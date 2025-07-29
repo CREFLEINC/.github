@@ -3,18 +3,9 @@
 🎉 금주의 멍에위반자 🎉
 - ???
 
-### 이슈 등록 규칙
+### 이슈 등록 및 관리 규칙
 - 시급성을 요하는 버그 픽스는 반드시 bug 태그를 붙일것
     - 이슈 우측 Labels, Type에 `bug` 태그 지정
-- 브랜치명 규칙
-    - `feature` 브랜치 명명 : feature/{이슈 번호}-{설명}
-        - 예 : `feature/8-loginapi`
-    - `hotfix` : `hotfix/{설명}`
-        - 예 : `hotfix/login-bug`
-    - `Tag` : `v{main}.{sub}.{publish date}`
-        - `main` : 마일스톤에 맞춰 계획한 주요 버전 (즉, 그냥 우리가 정하는 버전)
-        - `sub` : `main`을 제외한 업데이트
-        - `publish date` : 배포 날짜
 - 리파지토리 이슈에 바로 티켓 발행시 프로젝트를 지정할것
     - 각 이슈는 우측 `project`에 관련 프로젝트를 등록
     - 보드 규칙
@@ -23,6 +14,17 @@
         - `In Progress`: 현재 진행중인 작업
         - `In Review`: `Pull Requests` 요청 후 코드리뷰 대기 상태의 작업
         - `Done`: 작업이 완료된 작업
+
+### 브랜치명 규칙
+- `feature` 브랜치 명명 : feature/{이슈 번호}-{설명}
+    - 예 : `feature/8-loginapi`
+- `hotfix` : `hotfix/{설명}`
+    - 예 : `hotfix/login-bug`
+- `Tag` : `v{main}.{sub}.{publish date}`
+    - `main` : 마일스톤에 맞춰 계획한 주요 버전 (즉, 그냥 우리가 정하는 버전)
+    - `sub` : `main`을 제외한 업데이트
+    - `publish date` : 배포 날짜
+
 
 <!--
 
